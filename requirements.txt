@@ -1,8 +1,2 @@
-Pillow
-pytgcalls
-ffmpeg-python
-python-arq
-Pyrogram
-TgCrypto
-youtube_dl
-aiofiles
+pyrogram
+pytz
